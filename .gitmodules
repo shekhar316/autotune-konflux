@@ -1,7 +1,3 @@
-[submodule "master"]
-	path = master
-	url = https://github.com/shekhar316/autotune.git
-	branch = master
 [submodule "remote_monitoring"]
 	path = remote_monitoring
 	url = https://github.com/shekhar316/autotune.git
